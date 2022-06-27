@@ -26,5 +26,6 @@ class Webserver:
                 version = f"{openloop.comb_code} ({openloop.num*10}/{openloop.code})",
                 logs=logs,
                 mongo = mongo,
-                online = ping()
+                online = ping(),
+                plugins = len(share.plugins.enviroments)
             )
