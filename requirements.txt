@@ -1,3 +1,2 @@
-requests
-pymongo
 python-dotenv
+https://github.com/CycloneBiz/OpenLoop/archive/refs/heads/master.zip

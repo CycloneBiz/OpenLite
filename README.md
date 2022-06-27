@@ -1,2 +1,2 @@
 # OpenLite
-Stream Video and send/receive MongoDB data while working with a main OpenLoop node.
+OpenLoop but with no GUI, made for speed and being controlled by a master OpenLoop Node.
